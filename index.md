@@ -10,3 +10,8 @@ First, I creted a new pull request, then I compared it to my main branch and edi
 $ git init
 Intiialized empty Git respository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [x] Roses
+- [x] Chocolates
+- [ ] Candles
+- [ ] Balloons
